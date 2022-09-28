@@ -188,8 +188,8 @@ li:focus {
     /* background-color: #2d8fc7; */
     background: linear-gradient(
       0deg,
-      rgba(116, 180, 215, 1) 0%,
-      rgba(45, 143, 199, 1) 100%
+      rgba(215, 116, 116, 0.26) 0%,
+      rgb(199, 45, 45) 100%
     );
     border-radius: 0px 0px 8px 0px;
   }
@@ -227,7 +227,7 @@ li:focus {
     float: left;
   }
   .title {
-    color: #183857;
+    color: #a60311;
     font-size: 20px;
     font-family: Verdana, Arial;
   }
@@ -252,7 +252,7 @@ li:focus {
   }
 
   .react-tabs__tab-list {
-    background-color: #2d8fc7;
+    background-color: #a60311;
     padding: 1rem 0.5rem;
     border-radius: 8px;
   }
